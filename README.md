@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**Therealadetunji/Therealadetunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 - Employment Status: Unemployed and Open to work remotely and Locally(Nigeria).
 
 - 🔭 I’m currently working on ...Several projects and available to voluntary my service for open-source coding.
